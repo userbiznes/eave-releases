@@ -1,6 +1,7 @@
 # Eave
 
-Downloads and updates for Eave, the Mac app that lives in the notch.
+Downloads and updates for Eave, the macOS notch app: the Mac app that lives in your MacBook’s notch.
+Website: **[eave.ardisusa.com](https://eave.ardisusa.com)**
 
 **[Download the latest version](https://github.com/userbiznes/eave-releases/releases/latest/download/Eave.dmg)**
 (macOS 14 or later). Open the DMG and drag Eave into Applications.
